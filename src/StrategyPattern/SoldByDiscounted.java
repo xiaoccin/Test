@@ -1,3 +1,5 @@
+package StrategyPattern;
+
 public class SoldByDiscounted implements Sold{
 
     float discountRate;

@@ -1,3 +1,5 @@
+package StrategyPattern;
+
 public class Context {
 
         private Sold sold;

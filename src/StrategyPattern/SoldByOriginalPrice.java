@@ -1,3 +1,5 @@
+package StrategyPattern;
+
 public class SoldByOriginalPrice implements Sold{
 
     @Override

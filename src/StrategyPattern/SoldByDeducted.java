@@ -1,3 +1,5 @@
+package StrategyPattern;
+
 public class SoldByDeducted implements Sold{
 
     private  float amount;
